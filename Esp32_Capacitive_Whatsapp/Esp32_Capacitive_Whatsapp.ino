@@ -1,4 +1,4 @@
-#reference: [Rui Santos](https://RandomNerdTutorials.com/esp32-send-messages-whatsapp/)
+// reference: Rui Santos https://RandomNerdTutorials.com/esp32-send-messages-whatsapp/
 
 #include <ESP_CapSense.h>
 CapacitiveSensor SensorLeft = CapacitiveSensor(4,33);
